@@ -9,7 +9,7 @@
 - [qb-garages](https://github.com/qbcore-framework/qb-garages) - For house garages
 
 ## Screenshots
-![Spawn selector](https://i.imgur.com/nz0mPGe.png)
+![Spawn selector](https://imgur.com/a/tIZnqY0)
 
 ## Features
 - Ability to select spawn after selecting the character
